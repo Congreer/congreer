@@ -1,0 +1,11 @@
+{
+  "name": "congreerapi",
+  "version": "1.0.0",
+  "description": "Congreer Api For Your Usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yigit Gulay <yigitgulay11@outlook.com>",
+  "license": "MIT"
+}
