@@ -1,6 +1,6 @@
 
 <a href="https://dogehouse.tv"><p align="center">
-<img height=100 src="https://avatars.githubusercontent.com/u/87930389?s=200&v=4"/>
+<img height="200" src="https://avatars.githubusercontent.com/u/87930389?s=200&v=4"/>
 
 </p></a>
 <p align="center">
@@ -15,8 +15,6 @@
 
 <h3 align="center">
   <a href="https://github.com/congreer/congreer/blob/staging/contributing.md">Contribute Our Project</a>
-  <span> · </span>
-  <a href="https://discord.gg/82HzQCJCDg">Community</a>
   <span> · </span>
   <a href="congreer.github.io">Documentation</a>
 </h3>
