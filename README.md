@@ -14,7 +14,7 @@
 
 
 <h3 align="center">
-  <a href="https://github.com/congreer/congreer/blob/staging/contributing.md">Contribute Our Project</a>
+  <a href="https://github.com/congreer/congreerApi/blob/main/contributing.md">Contribute Our Project</a>
   <span> · </span>
   <a href="congreer.github.io">Documentation</a>
 </h3>
