@@ -22,7 +22,20 @@ This very simple rule is really important. If you don't be nice to other pepoles
 - Anything about racism.
 - Do not use swear words.
 
-## 
+## Please speak/write clearly
+
+If you don't speak/write clearly we cannot understand you.
+Example:
+```
+Pull Request:
+
+in this pr I wanted to talk about this ext in vsc
+```
+Unofficial shortenings are not going to be clear. You can write `pull request` instead of `pr`, `extension` instead of `ext` and `vs code / Visual Studio Code` instead of `vsc`. 
+But we used `vs code`?
+Vs code is the official shortening of `Visual Studio Code`. Also `js` is the official shortening of `Javascript`.
+
+Official shortenings are going to be clear.
 
 
 # Create Pull Request
