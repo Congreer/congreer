@@ -13,13 +13,16 @@
   
 
 # Contributing Our Project
-To contribute our project, please read the rules and the import sections (will marked as *). If you are planning to make major pull requests please read this document.
 
-We are making this file so you can:
+This file is for contributing our project. This part contains the basic rules of creating pull requests.
 
-- Easily
-- Straight
-- Efficiently
-Create pull requests.
+## Please be nice to other pepole
+
+This very simple rule is really important. If you don't be nice to other pepoles your pull requests are never going to merge. These are the banned words:
+- Anything about racism.
+- Do not use swear words.
+
+## 
+
 
 # Create Pull Request
