@@ -39,3 +39,8 @@ Official shortenings are going to be clear.
 
 
 # Create Pull Request
+Creating pull requests are really important since you cannot contribute without it. You will have 24 hours to reply questions. Our CI system will check if your code is correct or not. Then we will check your code. If your code is dangerous and you are trying to hack us:
+- First, this is not ethical
+- Second, We won't merge your code
+- Third, Your name is going to be on Congreer blacklist
+
