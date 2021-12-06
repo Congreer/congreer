@@ -23,4 +23,4 @@
 
 |Name|Location  |
 |--|--|
-| Frontend |/client/  |
+| [Fronend](https://github.com/Congreer/congreer/tree/main/client) |/client/  |
