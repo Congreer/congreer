@@ -23,4 +23,4 @@ This topic is really basic. You just need to read carefully. As you know in lara
 ### Varibles And Custom Varibles
 
 Since this project is just the frontend, we use static varibles for data. You can add more if you need to. Some examples are in HomeController.php located under controllers directory
-<div style="background:green;"></div>
+<div style="background:green;">df</div>
