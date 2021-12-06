@@ -23,4 +23,11 @@ This topic is really basic. You just need to read carefully. As you know in lara
 ### Varibles And Custom Varibles
 
 Since this project is just the frontend, we use static varibles for data. You can add more if you need to. Some examples are in HomeController.php located under controllers directory
-<div style="background:green;">df</div>
+
+<a href="https://github.com/Congreer/congreer"><p align="center">
+<img height="200" src="https://avatars.githubusercontent.com/u/87930389?s=200&v=4"/>
+
+</p></a>
+<p align="center">
+  <strong>Congress in new generation 🎥🎥</strong>
+</p>
