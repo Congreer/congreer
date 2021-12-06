@@ -19,3 +19,8 @@
   <a href="congreer.github.io">Documentation</a>
 </h3>
 
+## Quick look at our file structure
+
+|Name|Location  |
+|--|--|
+| Frontend |/client/  |
